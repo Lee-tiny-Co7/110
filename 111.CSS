@@ -25,7 +25,7 @@ border:solid; */
 }
 
 nav ul {
-  text-align: right;
+  text-align:left;
   position: fixed;
   width: 100%;
   background-color: #e0ebe8;
